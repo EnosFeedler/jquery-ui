@@ -7,6 +7,7 @@
   "author": {
     "name": "AUTHORS.txt"
   },
+  "browserify":"./dist/jquery-ui.js",
   "repository": {
     "type": "git",
     "url": "git://github.com/jquery/jquery-ui.git"
